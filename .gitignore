@@ -1,0 +1,7 @@
+# Ignore the output directory
+out/
+# Ignore the data directory
+data/
+# Ignore all eri configuration files except the template
+eri.conf
+!template/eri.conf
